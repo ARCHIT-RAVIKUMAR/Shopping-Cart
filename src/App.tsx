@@ -5,7 +5,7 @@ export default function App() {
   return (
     <>
       <header>
-        <h1>Corner Store</h1>
+        <h1>Kirana Corner</h1>
       </header>
       <main>
         <ProductList />
