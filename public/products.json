@@ -1,0 +1,18 @@
+[
+  { "id": 1, "title": "Masala Chai Blend, 250 g", "price": 180, "category": "Tea & Coffee", "emoji": "🍵", "tint": "#f3e3c3" },
+  { "id": 2, "title": "Filter Coffee Powder, 500 g", "price": 260, "category": "Tea & Coffee", "emoji": "☕", "tint": "#e4d3c4" },
+  { "id": 3, "title": "Basmati Rice, 5 kg", "price": 650, "category": "Staples", "emoji": "🍚", "tint": "#f1efe6" },
+  { "id": 4, "title": "Toor Dal, 1 kg", "price": 165, "category": "Staples", "emoji": "🫘", "tint": "#f4e7b8" },
+  { "id": 5, "title": "Cow Ghee, 500 ml", "price": 340, "category": "Staples", "emoji": "🧈", "tint": "#fbefb4" },
+  { "id": 6, "title": "Coconut Oil, 1 L", "price": 210, "category": "Staples", "emoji": "🥥", "tint": "#e9ece3" },
+  { "id": 7, "title": "Turmeric Powder, 200 g", "price": 95, "category": "Spices", "emoji": "🟡", "tint": "#fbe3a0" },
+  { "id": 8, "title": "Kashmiri Chilli Powder, 200 g", "price": 130, "category": "Spices", "emoji": "🌶️", "tint": "#f6cfc6" },
+  { "id": 9, "title": "Mango Pickle, 400 g", "price": 140, "category": "Pickles", "emoji": "🥭", "tint": "#fcdc9e" },
+  { "id": 10, "title": "Lime Pickle, 400 g", "price": 125, "category": "Pickles", "emoji": "🍋", "tint": "#eef1b9" },
+  { "id": 11, "title": "Banana Chips, 250 g", "price": 120, "category": "Snacks", "emoji": "🍌", "tint": "#f9eaa8" },
+  { "id": 12, "title": "Lijjat Papad, 200 g", "price": 70, "category": "Snacks", "emoji": "🫓", "tint": "#efddbd" },
+  { "id": 13, "title": "Jaggery Block, 1 kg", "price": 90, "category": "Sweets", "emoji": "🟤", "tint": "#e8cfb3" },
+  { "id": 14, "title": "Brass Diya Set of 4", "price": 320, "category": "Home", "emoji": "🪔", "tint": "#f7dcae" },
+  { "id": 15, "title": "Steel Tiffin Box, 3 tier", "price": 550, "category": "Home", "emoji": "🍱", "tint": "#dde4ea" },
+  { "id": 16, "title": "Cotton Kurta, Indigo", "price": 899, "category": "Clothing", "emoji": "👘", "tint": "#cfd8ec" }
+]
