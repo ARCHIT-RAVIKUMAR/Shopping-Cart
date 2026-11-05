@@ -28,7 +28,9 @@ export default function ProductList() {
         const inCart = items.find((i) => i.id === p.id)?.quantity ?? 0;
         return (
           <li key={p.id} className="product">
-            <img src={p.thumbnail} alt={p.title} loading="lazy" />
+            <div className="thumb" style={{ background: p.tint }} aria-hidden="true">
+              {p.emoji}
+            </div>
             <div className="info">
               <span className="cat">{p.category}</span>
               <h3>{p.title}</h3>
